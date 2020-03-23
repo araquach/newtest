@@ -1,4 +1,4 @@
-module contra-design.com/govue
+module contra-design.com/newtest
 
 go 1.12
 
